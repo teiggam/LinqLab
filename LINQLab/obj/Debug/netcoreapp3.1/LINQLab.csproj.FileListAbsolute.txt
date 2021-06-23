@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.AssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.genruntimeconfig.cache
