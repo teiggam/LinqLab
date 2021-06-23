@@ -36,6 +36,7 @@ namespace LINQLab
                                     select n).ToArray();
             Console.WriteLine("\nNumbers between 10 and 100:");
             PrintNums(betweenTenHund);
+            //There are none in the provided list, so this result is and should be blank.
 
             //5
             int[] betweenHunThou = (from n in nums
