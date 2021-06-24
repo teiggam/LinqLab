@@ -74,6 +74,9 @@ namespace LINQLab
                                     where s.Age >= 21
                                     select s).ToList();
 
+            Console.WriteLine("\n Students 21 or over");
+            PrintStudents(over21);
+
             //2
             int oldestAge = (from s in students
                              select s.Age).Max();
